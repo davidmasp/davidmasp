@@ -8,5 +8,5 @@ also development). I am intereseted in data visualisation and data journalism.
 
 - 🔭 I’m currently working on analysis of local hypermutation patterns in human tumors.
 - 👯 I’m looking to collaborate on any bioinformatic open source software or pipeline.
-- 🤔 I’m looking for help with learning Rust / C++.
+- 🤔 I’m looking for toy projects that help me learn Rust or C++.
 - 📫 How to reach me: [@davidmasp](https://twitter.com/davidmasp).
