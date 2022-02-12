@@ -7,3 +7,4 @@ statistical modeling to visualization. I am also expirienced in software pipelin
 also development). 
 
 📫 How to reach me: [@davidmasp](https://twitter.com/davidmasp).
+🔗 Visit my website at: [david.masponte.com](https://david.masponte.com/)
