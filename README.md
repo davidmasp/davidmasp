@@ -2,7 +2,7 @@
 
 Things I am building (meta):
 
-- 🔁 bucle - a ralph loop implementation for local development with coding agents.
+- 🔁 [bucle](https://github.com/davidmasp/bucle) - a ralph loop implementation for local development with coding agents.
 
 Things I am building (research):
 
