@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-My name is David Mas-Ponte and I am a postdoc at the Sottoriva Lab at Human Technopole.
-I work in cancer genomics and I study patterns of somatic evolution to better understand
-the biology of tumors. I have around 10 years of expirience with a broad set of applications in R, from
-statistical modeling to visualization. I am also expirienced in software pipeline usage/maintainance (and sometimes
-also development). 
+Things I am building:
 
-🔗 Visit my landing page at: [david.masponte.com](https://david.masponte.com/).
+- 🔁 bucle - a ralph loop implementation for local development with coding agents.
+
+Things I am doing:
+
+I am a postdoc at the computational biology center of the Human Technopole in Milan, working with cancer genomes and drug resistance. 
+
+🔗 Visit my landing page at [david.masponte.com](https://david.masponte.com/) for more.
