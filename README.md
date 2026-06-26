@@ -4,6 +4,7 @@ Things I am building (meta):
 
 - 🔁 [bucle](https://github.com/davidmasp/bucle) - a basic "ralph loop" implementation for local development with coding agents.
 - 🕰️ [dmp-timer](https://david.masponte.com/dmp-timer/) - a basic vibe coded HTML-only clone of [timesup by overdesigned](https://overdesigned.net/timesup/). Available 🔗 [here](https://david.masponte.com/dmp-timer/)
+- 🧬 [obsidian-genes](https://github.com/davidmasp/obsidian-genes) a experimental obsidian plugin with API access to multiple services for doi to metadata extraction: from EuroPMC, Arxiv and bioRxiv and gene name search from ncbi-genes API. 
 
 Things I am building (research):
 
