@@ -5,6 +5,7 @@ Things I am building:
 AI tooling:
 
 - 🔁 [bucle](https://github.com/davidmasp/bucle) - a basic "ralph loop" implementation for local development with coding agents.
+- 💡 [dmp-skills](https://github.com/davidmasp/dmp-skills) - a personal tool for installing and managing AI skills, my personal repository and a set of external ones.
 - codex limits
 
 Obsidian tooling:
