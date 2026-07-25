@@ -16,6 +16,7 @@ Obsidian tooling:
 Meta-research:
 
 - 📚 [cite-trajectory](https://github.com/davidmasp/cite-trajectory) a visualization of the citation trends from a selected list of papers. Data from [openAlex](https://openalex.org/).
+- 📝 [url2doi](https://github.com/davidmasp/url2doi) a small flask app to convert URLs from academic papers into their corresponding dois, demo available [here](https://url2doi.onrender.com/).
 
 Small projects:
 
