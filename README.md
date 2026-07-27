@@ -1,6 +1,13 @@
 ### Hi there 👋
 
+I am a postdoc at the computational biology center of the Human Technopole in Milan, working with cancer genomes and drug resistance.
+
 Things I am building:
+
+Genomic helpers
+
+- 🧬 [varianth](https://github.com/davidmasp/varianth) - a rust package and CLI tool containing a list of helpers for variant-related tasks and other genomic work.
+- 🧬 [bed-compare](https://github.com/davidmasp/bed-compare) - a tool to compare the overlaps of a set of bed files.
 
 AI tooling:
 
@@ -10,7 +17,7 @@ AI tooling:
 
 Obsidian tooling:
 
-- overseer
+- 📦 [overseer](https://github.com/davidmasp/obsidian-src) - a CLI that aggregates a set of common functionalities (e.g. sorting sources, moveing files, agentic notes) to manage my personal obisidian vault.
 - 🧬 [obsidian-genes](https://github.com/davidmasp/obsidian-genes) a experimental obsidian plugin with API access to multiple services for doi to metadata extraction: from EuroPMC, Arxiv and bioRxiv and gene name search from ncbi-genes API.
 
 Meta-research:
@@ -21,8 +28,5 @@ Meta-research:
 Small projects:
 
 - 🕰️ [dmp-timer](https://david.masponte.com/dmp-timer/) - a basic vibe coded HTML-only clone of [timesup by overdesigned](https://overdesigned.net/timesup/). Available 🔗 [here](https://david.masponte.com/dmp-timer/)
-
-
-I am a postdoc at the computational biology center of the Human Technopole in Milan, working with cancer genomes and drug resistance. 
 
 🔗 Visit my landing page at [david.masponte.com](https://david.masponte.com/) for more.
