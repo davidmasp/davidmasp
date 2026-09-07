@@ -28,5 +28,6 @@ Meta-research:
 Small projects:
 
 - 🕰️ [dmp-timer](https://david.masponte.com/dmp-timer/) - a basic vibe coded HTML-only clone of [timesup by overdesigned](https://overdesigned.net/timesup/). Available 🔗 [here](https://david.masponte.com/dmp-timer/)
+- 👨🏻‍🦳 [oldify](https://github.com/davidmasp/oldify) - a basic uv tool that savely renames a given input folder as <folder>.old, and .old.1, .old.2, ... until .old.9. Also adds old folders into the .gitignore file if leaving within a git repo.
 
 🔗 Visit my landing page at [david.masponte.com](https://david.masponte.com/) for more.
