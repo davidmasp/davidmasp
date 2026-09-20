@@ -27,6 +27,7 @@ Meta-research:
 
 Small projects:
 
+- 🔗 [url-jev](https://github.com/davidmasp/url-jev) - a basic jev classifier applied to a list of urls, uses [jev](https://typesafe.ai/) with a customizable set of questions, renders jev's decisions in a table format.
 - 🕰️ [dmp-timer](https://david.masponte.com/dmp-timer/) - a basic vibe coded HTML-only clone of [timesup by overdesigned](https://overdesigned.net/timesup/). Available 🔗 [here](https://david.masponte.com/dmp-timer/)
 - 👨🏻‍🦳 [oldify](https://github.com/davidmasp/oldify) - a basic uv tool that savely renames a given input folder as <folder>.old, and .old.1, .old.2, ... until .old.9. Also adds old folders into the .gitignore file if leaving within a git repo.
 
