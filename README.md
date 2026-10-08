@@ -24,6 +24,7 @@ Meta-research:
 
 - 📚 [cite-trajectory](https://github.com/davidmasp/cite-trajectory) a visualization of the citation trends from a selected list of papers. Data from [openAlex](https://openalex.org/).
 - 📝 [url2doi](https://github.com/davidmasp/url2doi) a small flask app to convert URLs from academic papers into their corresponding dois, demo available [here](https://url2doi.onrender.com/).
+- 📄 [url2pdf](https://github.com/davidmasp/url2pdf) a small utility script that converts URLs to rendered PDFs, contains a specialized mode to detect direct pdf downloads for certain publishers and preprint servers. Allows downloading in a systematic manner papers under paywall if your current connection already has access.
 
 Small projects:
 
